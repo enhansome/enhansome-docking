@@ -1,0 +1,160 @@
+{
+  "items": [
+    {
+      "description": "Boltz-1: DemocratizingBiomolecularInteractionModelingJeremy Wohlwend*, Gabriele Corso*, Saro Passaro*, Mateo Reveiz, Ken Leida, Wojtek Swiderski, Tally Portnoi, Itamar Chinn, Jacob Silterra, Tommi Jaakkola, Regina BarzilayReport, Nov 2024\nChai-1 Technical ReportChai-1 Discovery TeamReport, Sep 2024\nAlphaFold3 Open-Source Implementation (Ligo)Edward Harris, Emily Egerton-Warburton, Arda GoreciProject, Sep 2024\n🔥Accurate structure prediction of biomolecular interactions with AlphaFold 3Josh Abramson, Jonas Adler, Jack Dunger, Richard Evans, Tim Green, Alexander Pritzel, Olaf Ronneberger, Lindsay Willmore, Andrew J. Ballard, Joshua Bambrick, Sebastian W. Bodenstein, David A. Evans, Chia-Chun Hung, Michael O’Neill, David Reiman, Kathryn Tunyasuvunakool, Zachary Wu, Akvilė Žemgulytė, Eirini Arvaniti, Charles Beattie, Ottavia Bertolli, Alex Bridgland, Alexey Cherepanov, Miles Congreve, Alexander I. Cowen-Rivers, Andrew Cowie, Michael Figurnov, Fabian B. Fuchs, Hannah Gladman, Rishub Jain, Yousuf A. Khan, Caroline M. R. Low, Kuba Perlin, Anna Potapenko, Pascal Savy, Sukhdeep Singh, Adrian Stecula, Ashok Thillaisundaram, Catherine Tong, Sergei Yakneen, Ellen D. Zhong, Michal Zielinski, Augustin Žídek, Victor Bapst, Pushmeet Kohli, Max Jaderberg, Demis Hassabis & John M. JumperNature, May 2024\n🔥Generalized Biomolecular Modeling and Design with RoseTTAFold All-AtomRohith Krishna, Jue Wang, Woody Ahern, Pascal Sturmfels, Preetham Venkatesh, Indrek Kalvet, Gyu Rie Lee, Felix S Morey-Burrows, Ivan Anishchenko, Ian R Humphreys, Ryan McHugh, Dionne Vafeados, Xinting Li, George A Sutherland, Andrew Hitchcock, C Neil Hunter, Minkyung Baek, Frank DiMaio, David BakerScience, March 2024\n🔥A glimpse of the next generation of AlphaFoldGoogle DeepMind AlphaFold team and Isomorphic Labs teamNews, Oct 2023\nThe LightDock Server: Artificial Intelligence-powered modeling of macromolecular interactionsZymvol BiomodelingNucleic Acids Research, July 2023",
+      "items": [],
+      "title": "Versatile Docking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Protein-Ligand Docking"
+    },
+    {
+      "description": "SIGMADOCK: UNTWISTING MOLECULAR DOCKINGWITH FRAGMENT-BASED SE(3) DIFFUSION Alvaro Prat, Leo Zhang, Charlotte M. Deane, Yee Whye Teh, Garrett M. MorrisArxiv, Nov. 2025\nFast and Accurate Blind Flexible DockingZizhuo Zhang, Lijun Wu, Kaiyuan Gao, Jiangchao Yao, Tao Qin, Bo HanICLR, Jan. 2025",
+      "items": [],
+      "title": "2025 -- Protein-Ligand"
+    },
+    {
+      "description": "SurfDock is a Surface-Informed Diffusion Generative Model for Reliable and Accurate Protein–Ligand Complex PredictionDuanhua Cao, Mingan Chen, Runze Zhang, Zhaokun Wang, Manlin Huang, Jie Yu, Xinyu Jiang, Zhehuan Fan, Wei Zhang, Hao Zhou, Xutong Li, Zunyun Fu, Sulin Zhang, Mingyue ZhengNature Methods, Nov 2024\nQuickBind: A Light-Weight And Interpretable Molecular Docking ModelWojtek Treyde, Seohyun Chris Kim, Nazim Bouatta, Mohammed AlQuraishiMLCB, Oct 2024\nOne-step Structure Prediction and Screening for Protein-Ligand Complexes using Multi-Task Geometric Deep LearningKelei He, Tiejun Dong, Jinhui Wu, Junfeng ZhangPreprint, Aug 2024\nFully Flexible Molecular Alignment Enables Accurate Ligand Structure ModellingZhihao Wang, Fan Zhou, Zechen Wang, Qiuyue Hu, Yong-Qiang Li, Sheng Wang, Yanjie Wei, Liangzhen Zheng, Weifeng Li, Xiangda PengJCIM, July 2024\nDeep Learning for Protein-Ligand Docking: Are We There Yet?Alex Morehead, Nabin Giri, Jian Liu, Jianlin ChengPreprint, May 2024\nUni-Mol Docking V2: Towards Realistic and Accurate Binding Pose PredictionEric Alcaide, Zhifeng Gao, Guolin Ke, Yaqi Li, Linfeng Zhang, Hang Zheng, Gengmo ZhouPreprint, May 2024\nCarsiDock: a deep learning paradigm for accurate protein–ligand docking and screening based on large-scale pre-trainingHeng Cai, Chao Shen, Tianye Jian, Xujun Zhang, Tong Chen, Xiaoqi Han, Zhuo Yang, Wei Dang, Chang-Yu Hsieh, Yu Kang, Peichen Pan, Xiangyang Ji, Jianfei Song, Tingjun Hou and Yafeng DengChemical Science, December 2023\nGeoDirDock: Guiding Docking Along Geodesic PathsRaúl Miñán, Javier Gallardo, Álvaro Ciudad, Alexis MolinaPreprint, April 2024\nInterformer: An Interaction-Aware Model for Protein-Ligand Docking and Affinity PredictionHoutim Lai, Longyue Wang, Ruiyuan Qian, Geyan Ye, Juhong Huang, Fandi Wu, Fang Wu, Xiangxiang Zeng, Wei LiuPreprint, April 2024\nFABind+: Enhancing Molecular Docking through Improved Pocket Prediction and Pose GenerationKaiyuan Gao, Qizhi Pei, Jinhua Zhu, Tao Qin, Kun He, Lijun WuPreprint, April 2024\nArtiDock: fast and accurate machine learning approach to protein-ligand docking based on multimodal data augmentationTaras Voitsitskyi, Semen Yesylevskyy, Volodymyr Bdzhola, Roman Stratiichuk, Ihor Koleiev, Zakhar Ostrovsky, Volodymyr Vozniak, Ivan Khropachov, Pavlo Henitsoi, Leonid Popryho, Roman Zhytar, Alan Nafiiev, Serhii StarosylaPreprint, March 2024\nRe-Dock: Towards Flexible and Realistic Molecular Docking with Diffusion BridgeYufei Huang, Odin Zhang, Lirong Wu, Cheng Tan, Haitao Lin, Zhangyang Gao, Siyuan Li, Stan. Z. LiPreprint, February 2024\nPackDock: a Diffusion Based Side Chain Packing Model for Flexible Protein-Ligand DockingRunze Zhang, Xinyu Jiang, Duanhua Cao, Jie Yu, Mingan Chen, Zhehuan Fan, Xiangtai Kong, Jiacheng Xiong, Zimei Zhang, Wei Zhang, Shengkun Ni, Yitian Wang, Shenghua Gao, Mingyue ZhengPreprint, February 2024\nState-specific protein–ligand complex structure prediction with a multiscale deep generative modelZhuoran Qiao, Weili Nie, Arash Vahdat, Thomas F. Miller II, Animashree AnandkumarNature Machine Intelligence, February 2024\nDynamicBind: Predicting ligand-specific protein-ligand complex structure with a deep equivariant generative modelWei Lu, Jixian Zhang, Huang Weifeng, Ziqiao Zhang, Chengtao Li, Shuangjia ZhengNature Communications, February 2024\nDeep confident steps to new pockets: strategies for docking generalizationGabriele Corso, Arthur Deng, Nicholas Polizzi, Regina Barzilay, Tommi S. JaakkolaICLR, Feburary 2024\n(NeuralMD) A Multi-Grained Symmetric Differential Equation Model for Learning Protein-Ligand Binding DynamicsShengchao Liu, Weitao Du, Yanjing Li, Zhuoxinran Li, Vignesh Bhethanabotla, Nakul Rampal, Omar Yaghi, Christian Borgs, Anima Anandkumar, Hongyu Guo, Jennifer ChayesPreprint, January 2024",
+      "items": [],
+      "title": "2024 -- Protein-Ligand"
+    },
+    {
+      "description": "(DeltaDock) Multi-scale Iterative Refinement towards Robust and Versatile Molecular DockingJiaxian Yan, Zaixi Zhang, Kai Zhang, Qi LiuPreprint, December 2023\nDiffBindFR: An SE(3) Equivariant Network for Flexible Protein-Ligand DockingJintao Zhu, Zhonghui Gu, Jianfeng Pei, Luhua LaiPreprint, November 2023\nStructure prediction of protein-ligand complexes from sequence information with UmolPatrick Bryant, Atharva Kelkar, Andrea Guljas, Cecilia Clementi, Frank NoéPreprint, November 2023\n(FlexPose) Equivariant Flexible Modeling of the Protein–Ligand Binding Pose with Geometric Deep LearningTiejun Dong, Ziduo Yang, Jun Zhou, and Calvin Yu-Chian ChenJCTC, November 2023\nPre-Training on Large-Scale Generated Docking Conformations with HelixDock to Unlock the Potential of Protein-ligand Structure Prediction ModelsLihang Liu, Shanzhuo Zhang, Donglong He, Xianbin Ye, Jingbo Zhou, Xiaonan Zhang, Yaoyao Jiang, Weiming Diao, Hang Yin, Hua Chai, Fan Wang, Jingzhou He, Liang Zheng, Yonghui Li, Xiaomin FangPreprint, October 2023\nPoseBusters: AI-based docking methods fail to generate physically valid poses or generalise to novel sequencesMartin Buttenschoen, Garrett M. Morris, Charlotte M. DeanePreprint, October 2023.\nFABind: Fast and Accurate Protein-Ligand BindingQizhi Pei, Kaiyuan Gao, Lijun Wu, Jinhua Zhu, Yingce Xia, Shufang Xie, Tao Qin, Kun He, Tie-Yan Liu, Rui YanNeurIPS, September 2023\nEfficient and accurate large library ligand docking with KarmaDockXujun Zhang, Odin Zhang, Chao Shen, Wanglin Qu, Shicheng Chen, Hanqun Cao, Yu Kang, Zhe Wang, Ercheng Wang, Jintu Zhang, Yafeng Deng, Furui Liu, Tianyue Wang, Hongyan Du, Langcheng Wang, Peichen Pan, Guangyong Chen, Chang-Yu Hsieh, Tingjun HouNature Computational Science, September 2023\n(EDM-Dock) Deep Learning Model for Efficient Protein–Ligand Docking with Implicit Side-Chain FlexibilityMatthew R. Masters, Amr H. Mahmoud, Yao Wei, and Markus A. LillJCIM, March 2023\nDo deep learning models really outperform traditional approaches in molecular docking?Yuejiang Yu, Shuqi Lu, Zhifeng Gao, Hang Zheng, Guolin KeICLR workshop MLDD, March 2023\n🔥DiffDock: Diffusion Steps, Twists, and Turns for Molecular DockingGabriele Corso, Hannes Stärk, Bowen Jing, Regina Barzilay, Tommi JaakkolaICLR, Feburary 2023\nUni-Mol: A Universal 3D Molecular Representation Learning FrameworkGengmo Zhou, Zhifeng Gao, Qiankun Ding, Hang Zheng, Hongteng Xu, Zhewei Wei, Linfeng Zhang, Guolin KeICLR, Feburary 2023\nE3Bind: An End-to-End Equivariant Network for Protein-Ligand DockingYangtian Zhang, Huiyu Cai, Chence Shi, Jian TangICLR, Feburary 2023",
+      "items": [],
+      "title": "2023 -- Protein-Ligand"
+    },
+    {
+      "description": "TANKBind: Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure PredictionWei Lu, Qifeng Wu, Jixian Zhang, Jiahua Rao, Chengtao Li, Shuangjia ZhengNeurIPS, November 2022\nEquiBind: Geometric Deep Learning for Drug Binding Structure PredictionHannes Stärk, Octavian Ganea, Lagnajit Pattanaik, Dr.Regina Barzilay, Tommi JaakkolaICML, July 2022",
+      "items": [],
+      "title": "2022 -- Protein-Ligand"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Protein-Protein Docking"
+    },
+    {
+      "description": "Deep Reinforcement Learning for Modelling Protein ComplexesZiqi Gao, Tao Feng, Jiaxuan You, Chenyi Zi, Yan Zhou, Chen Zhang, Jia LiICLR, March 2024\nImproving deep learning protein monomer and complex structure prediction using DeepMSA2 with huge metagenomics dataWei Zheng, Qiqige Wuyun, Yang Li, Chengxin Zhang, P. Lydia Freddolino, Yang ZhangNature Methods, January 2024\nNeural Probabilistic Protein-Protein Docking via a Differentiable Energy ModelHuaijin Wu, Wei Liu, Yatao Bian, Jiaxiang Wu, Nianzu Yang, Junchi YanICLR, March 2024\nRigid Protein-Protein Docking via Equivariant Elliptic-Paraboloid Interface PredictionZiyang Yu, Wenbing Huang, Yang LiuICLR, March 2024",
+      "items": [],
+      "title": "2024 -- Protein-Protein"
+    },
+    {
+      "description": "(GeoDock) Flexible protein–protein docking with a multitrack iterative transformerLee-Shin Chu, Jeffrey A. Ruffolo, Ameya Harmalkar, Jeffrey J. GrayProtein Science, December 2023\nEnhancing alphafold-multimer-based protein complex structure prediction with MULTICOM in CASP15Jian Liu, Zhiye Guo, Tianqi Wu, Rajashree Roy, Farhan Quadir, Chen Chen, Jianlin ChengCommunications Biology, November 2023\nDockGame: Cooperative Games for Multimeric Rigid Protein DockingVignesh Ram Somnath, Pier Giuseppe Sessa, Maria Rodriguez Martinez, Andreas KrausePreprint, October 2023\nDiffdock-pp: Rigid protein-protein docking with diffusion modelsMohamed Amine Ketata, Cedrik Laue, Ruslan Mammadov, Hannes Stärk, Menghua Wu, Gabriele Corso, Céline Marquet, Regina Barzilay, Tommi S. JaakkolaICLR workshop MLDD, March 2023\nDeep Learning for Flexible and Site-Specific Protein Docking and DesignMatthew McPartlon, Jinbo XuBioRxiv, April 2023",
+      "items": [],
+      "title": "2023 -- Protein-Protein"
+    },
+    {
+      "description": "Physics-informed deep neural network for rigid-body protein dockingFreyr Sverrisson, Jean Feydy, Joshua Southern, Michael M Bronstein, Bruno E CorreiaICLR workshop MLDD, April 2022\nIndependent SE(3)-Equivariant Models for End-to-End Rigid Protein DockingOctavian-Eugen Ganea, Xinyuan Huang, Charlotte Bunne, Yatao Bian, Regina Barzilay, Tommi S. Jaakkola, Andreas KrauseICLR, January 2022",
+      "items": [],
+      "title": "2022 -- Protein-Protein"
+    },
+    {
+      "description": "🔥Protein complex prediction with AlphaFold-MultimerRichard Evans, Michael O’Neill, A. Pritzel, Natasha Antropova, Andrew Senior, Tim Green, Augustin Zídek, Russ Bates, Sam Blackwell, Jason Yim, O. Ronneberger, S. Bodenstein, Michal Zielinski, Alex Bridgland, Anna Potapenko, Andrew Cowie, Kathryn Tunyasuvunakool, Rishub Jain, Ellen Clancy, Pushmeet Kohli, J. Jumper, D. HassabisBioRxiv, October 2021",
+      "items": [],
+      "title": "2021 -- Protein-Protein"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Protein-Nucleic Acid Docking"
+    },
+    {
+      "description": "🔥Accurate prediction of protein-nucleic acid complexes using RoseTTAFoldNAMinkyung Baek, Ryan McHugh, Ivan Anishchenko, Hanlun Jiang, David Baker, Frank DiMaioNature Methods, November 2023\nEquiPNAS: improved protein-nucleic acid binding site prediction using protein-language-model-informed equivariant deep graph neural networksRahmatullah Roche, Bernard Moussad, Md Hossain Shuvo, Sumit Tarafder, Debswapna BhattacharyaBioRxiv, September 2023\nEvaluating native-like structures of RNA-protein complexes through the deep learning methodChengwei Zeng, Yiren Jian, Soroush Vosoughi, Chen Zeng, Yunjie ZhaoNature Communications, February 2023",
+      "items": [],
+      "title": "2023 -- Protein-Nucleic Acid"
+    },
+    {
+      "description": "Cov_DOX: A Method for Structure Prediction of Covalent Protein–Ligand BindingsLin Wei, Yaru Chen, Jiaqi Liu, Li Rao, Yanliang Ren, Xin Xu, Jian WanJournal of Medicinal Chemistry, March 2022\nCovPDB: a high-resolution coverage of the covalent protein–ligand interactomeMingjie Gao, Aurelien F. A. Moumbock, Ammar Qaseem, Qianqing Xu, Stefan GuntherNucleic Acids Research, September 2021\nFragment-based covalent ligand discoveryWenchao Lu, Milka Kostic, Tinghu Zhang, Jianwei Che, Matthew P. Patricelli, Lyn H. Jones, Edward T. Chouchaniae, Nathanael S. GrayRSC Chemical Biology, February 2021\nCovalent docking of large libraries for the discovery of chemical probesNir London, Rand M Miller, Shyam Krishnan, Kenji Uchida, John J Irwin, Oliv Eidam, Lucie Gibold, Peter Cimermančič, Richard Bonnet, Brian K Shoichet, Jack TauntonNature Chemical Biology, September 2014\nDocking Covalent Inhibitors: A Parameter Free Approach To Pose Prediction and ScoringKai Zhu, Kenneth W. Borrelli, Jeremy R. Greenwood, Tyler Day, Robert Abel, Ramy S. Farid, and Edward HarderJournal of Chemical Information and Modeling, June 2014\nCovalentDock: Automated covalent docking with parameterized covalent linkage energy estimation and molecular geometry constraintsXuchang Ouyang, Shuo Zhou, Chinh Tran To Su, Zemei Ge, Runtao Li, Chee Keong KwohJournal of Computational Chemistry, February 2013",
+      "items": [],
+      "title": "Covalent Docking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Survey"
+    },
+    {
+      "description": "Machine-learning methods for ligand–protein molecular dockingKevin Crampon, Alexis Giorkallos, Myrtille Deldossi, Stéphanie Baud, Luiz Angelo SteffenelDrug Discovery Today, January 2022\nA practical guide to large-scale dockingBrian J. Bender, Stefan Gahbauer, Andreas Luttens, Jiankun Lyu, Chase M. Webb, Reed M. Stein, Elissa A. Fink, Trent E. Balius, Jens Carlsson, John J. Irwin & Brian K. ShoichetNature Protocols, December 2021\nAn Overview of Scoring Functions Used for Protein–Ligand Interactions in Molecular DockingJin Li, Ailing Fu, Le ZhangInterdisciplinary Sciences: Computational Life Sciences, March 2019\nProgress in molecular dockingJiyu Fan, Ailing Fu, Le ZhangQuantitative Biology, June 2019\nMolecular Docking: Shifting Paradigms in Drug DiscoveryLuca Pinzi, Giulio RastelliInternational Journal of Molecular Sciences, September 2019\nFrom machine learning to deep learning: Advances in scoring functions for protein–ligand dockingChao Shen, Junjie Ding, Zhe Wang, Dongsheng Cao, Xiaoqin Ding, Tingjun HouWIREs computational molecular science, June 2019\nSoftware for molecular docking: a reviewNataraj S. Pagadala, Khajamohiddin Syed, Jack TuszynskiBiophysical Reviews, January 2017\nDynamic Docking: A Paradigm Shift in Computational Drug DiscoveryGioia, Dario, Martina Bertazzo, Maurizio Recanatini, Matteo Masetti, Andrea CavalliMolecules, November 2017\nInsights into Protein–Ligand Interactions: Mechanisms, Models, and MethodsXing Du, Yi Li, Yuan-Ling Xia, Shi-Meng Ai, Jing Liang, Peng Sang, Xing-Lai Ji, Shu-Qun LiuInternational Journal of Molecular Sciences, January 2016",
+      "items": [],
+      "title": "Protein-Ligand"
+    },
+    {
+      "description": "Protein–Protein Docking: Past, Present, and FutureSharon Sunny, PB JayarajThe protein journal, February 2022\nA survey on computational models for predicting protein–protein interactionsLun Hu, Xiaojuan Wang, Yu-An Huang, Pengwei Hu, Zhu-Hong YouBriefings in Bioinformatics, September 2021\nWhat method to use for protein–protein docking?Kathryn Porter, Israel Desta, Dima Kozakov, Sandor VajdaCurrent Opinion in Structural Biology, April 2019",
+      "items": [],
+      "title": "Protein-Protein"
+    },
+    {
+      "description": "Challenges in structural modeling of RNA-protein interactionsXudong Liu, Yingtian Duan, Xu Hong, Juan Xie, Shiyong LiuCurrent Opinion in Structural Biology, June 2023\nProtein–RNA interaction prediction with deep learning: structure mattersJunkang Wei, Siyuan Chen, Licheng Zong, Xin Gao, Yu LiBriefings in Bioinformatics， January 2022",
+      "items": [],
+      "title": "Protein-Nucleic Acid"
+    },
+    {
+      "description": "Docking covalent targets for drug discovery: stimulating the computer-aided drug design community of possible pitfalls and erroneous practicesAbdul-Quddus Kehinde Oyedele, Abdeen Tunde Ogunlana, Ibrahim Damilare Boyenle, Ayodeji Oluwadamilare Adeyemi, Temionu Oluwakemi Rita, Temitope Isaac Adelusi, Misbaudeen Abdul-Hammed, Oluwabamise Emmanuel Elegbeleye, Tope Tunji OdunitanMolecular Diversity, September 2022",
+      "items": [],
+      "title": "Covalent"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Traditional Docking Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🔥AutoDock Suite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T02:06:17Z",
+            "owner": "ccsb-scripps",
+            "repo": "AutoDock-Vina",
+            "stars": 1053
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoDock-GPU",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T19:00:24Z",
+            "owner": "ccsb-scripps",
+            "repo": "AutoDock-GPU",
+            "stars": 606
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rDock",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-01T13:29:39Z",
+            "owner": "CBDD",
+            "repo": "rDock",
+            "stars": 73
+          }
+        }
+      ],
+      "title": "Open-source and free access"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T06:55:11.478Z",
+    "original_repository": "KyGao/awesome-docking",
+    "original_repository_sha": "c5f59d26306a8c8d52db11425baaf49435b0ce24",
+    "enhanced_repository": "enhansome/enhansome-docking",
+    "enhanced_repository_description": null,
+    "title": "Awesome docking with stars"
+  }
+}
