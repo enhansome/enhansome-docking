@@ -52,7 +52,7 @@ If you have a paper or resource you'd like to add, please submit a pull request 
 Jeremy Wohlwend\*, Gabriele Corso\*, Saro Passaro\*, Mateo Reveiz, Ken Leida, Wojtek Swiderski, Tally Portnoi, Itamar Chinn, Jacob Silterra, Tommi Jaakkola, Regina Barzilay\
 *Report, Nov 2024*\
 [![](https://img.shields.io/badge/report-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://gcorso.github.io/assets/boltz1.pdf)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/jwohlwend/boltz) ⭐ 4,164 | 🐛 155 | 🌐 Python | 📅 2026-05-29
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/jwohlwend/boltz) ⭐ 4,163 | 🐛 154 | 🌐 Python | 📅 2026-05-29
 ![Stars](https://img.shields.io/github/stars/jwohlwend/boltz?color=yellow\&style=social)
 
 **Chai-1 Technical Report**\
@@ -81,7 +81,7 @@ Rohith Krishna, Jue Wang, Woody Ahern, Pascal Sturmfels, Preetham Venkatesh, Ind
 *Science, March 2024*\
 [![](https://img.shields.io/badge/science-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://www.science.org/doi/10.1126/science.adl2528)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbbd97deb6e06fe24c5f20fa85e1f276e3065f99f%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/baker-laboratory/RoseTTAFold-All-Atom) ⭐ 815 | 🐛 112 | 🌐 Python | 📅 2026-05-18
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/baker-laboratory/RoseTTAFold-All-Atom) ⭐ 816 | 🐛 112 | 🌐 Python | 📅 2026-05-18
 ![Stars](https://img.shields.io/github/stars/baker-laboratory/RoseTTAFold-All-Atom?color=yellow\&style=social)
 
 🔥**A glimpse of the next generation of AlphaFold**\
@@ -511,7 +511,7 @@ Minkyung Baek, Ryan McHugh, Ivan Anishchenko, Hanlun Jiang, David Baker, Frank D
 *Nature Methods, November 2023*\
 [![](https://img.shields.io/badge/nature-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://www.nature.com/articles/s41592-023-02086-5)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0c0ad28901d1cae2cc6c7b9c1f66e9e46afc5ec5%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/uw-ipd/RoseTTAFold2NA) ⭐ 379 | 🐛 79 | 🌐 Python | 📅 2024-06-03
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/uw-ipd/RoseTTAFold2NA) ⭐ 380 | 🐛 79 | 🌐 Python | 📅 2024-06-03
 ![Stars](https://img.shields.io/github/stars/uw-ipd/RoseTTAFold2NA?color=yellow\&style=social)
 
 **EquiPNAS: improved protein-nucleic acid binding site prediction using protein-language-model-informed equivariant deep graph neural networks**\
@@ -685,7 +685,7 @@ Abdul-Quddus Kehinde Oyedele, Abdeen Tunde Ogunlana, Ibrahim Damilare Boyenle, A
 
 * 🔥**AutoDock Suite**\
   [![](https://img.shields.io/badge/website-AB9FF2?style=flat\&logo=temporal\&labelColor=555555\&logocolor=555555)](https://ccsb.scripps.edu/projects/docking)
-  [![](https://img.shields.io/badge/AutoDock_Vina-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/ccsb-scripps/AutoDock-Vina/releases) ⭐ 1,053 | 🐛 87 | 🌐 C++ | 📅 2026-08-11
+  [![](https://img.shields.io/badge/AutoDock_Vina-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/ccsb-scripps/AutoDock-Vina/releases) ⭐ 1,054 | 🐛 87 | 🌐 C++ | 📅 2026-08-11
   ![Stars](https://img.shields.io/github/stars/ccsb-scripps/AutoDock-Vina?color=yellow\&style=social)
 * **AutoDock-GPU**\
   [![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/ccsb-scripps/AutoDock-GPU) ⭐ 606 | 🐛 87 | 🌐 C++ | 📅 2026-08-11
@@ -714,4 +714,4 @@ Abdul-Quddus Kehinde Oyedele, Abdeen Tunde Ogunlana, Ibrahim Damilare Boyenle, A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
