@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-11T02:06:17Z",
                 "owner": "ccsb-scripps",
                 "repo": "AutoDock-Vina",
-                "stars": 1061
+                "stars": 1064
               }
             },
             {
@@ -60,9 +60,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:58:27.092Z",
-    "original_repository": "KyGao/awesome-docking",
-    "original_repository_id": 722439383,
+    "last_updated": "2026-08-27T11:33:35.887Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 722439383,
+      "language": null,
+      "last_commit": "2026-01-02T09:26:37Z",
+      "owner": "KyGao",
+      "repo": "awesome-docking",
+      "stars": 142
+    },
     "original_repository_sha": "c5f59d26306a8c8d52db11425baaf49435b0ce24",
     "enhanced_repository": "enhansome/enhansome-docking",
     "enhanced_repository_description": null,
