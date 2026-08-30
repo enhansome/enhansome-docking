@@ -21,7 +21,7 @@
                 "open_issues": 89,
                 "owner": "ccsb-scripps",
                 "repo": "AutoDock-Vina",
-                "stars": 1065,
+                "stars": 1064,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:05.589Z"
@@ -42,7 +42,7 @@
                 "open_issues": 87,
                 "owner": "ccsb-scripps",
                 "repo": "AutoDock-GPU",
-                "stars": 610,
+                "stars": 609,
                 "topics": [
                   "autodock4",
                   "cuda",
@@ -89,7 +89,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:43:36.031Z",
+    "last_updated": "2026-08-30T10:34:30.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome & curated list of docking papers",
