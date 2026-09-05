@@ -52,7 +52,7 @@ If you have a paper or resource you'd like to add, please submit a pull request 
 Jeremy Wohlwend\*, Gabriele Corso\*, Saro Passaro\*, Mateo Reveiz, Ken Leida, Wojtek Swiderski, Tally Portnoi, Itamar Chinn, Jacob Silterra, Tommi Jaakkola, Regina Barzilay\
 *Report, Nov 2024*\
 [![](https://img.shields.io/badge/report-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://gcorso.github.io/assets/boltz1.pdf)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/jwohlwend/boltz) ⭐ 4,197 | 🐛 141 | 🌐 Python | 📅 2026-05-29
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/jwohlwend/boltz) ⭐ 4,197 | 🐛 142 | 🌐 Python | 📅 2026-05-29
 ![Stars](https://img.shields.io/github/stars/jwohlwend/boltz?color=yellow\&style=social)
 
 **Chai-1 Technical Report**\
@@ -352,7 +352,7 @@ Gabriele Corso, Hannes Stärk, Bowen Jing, Regina Barzilay, Tommi Jaakkola\
 *ICLR, Feburary 2023*\
 [![](https://img.shields.io/badge/iclr-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://openreview.net/forum?id=kKF8_K-mBbS)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6f0d0b897d0e0963204719b80a8af43ca0d79d90%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/gcorso/DiffDock) ⭐ 1,570 | 🐛 132 | 🌐 Python | 📅 2025-05-02
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/gcorso/DiffDock) ⭐ 1,571 | 🐛 132 | 🌐 Python | 📅 2025-05-02
 ![Stars](https://img.shields.io/github/stars/gcorso/DiffDock?color=yellow\&style=social)
 ![](https://img.shields.io/badge/blind-FD6F6F?style=flat\&logo=darkreader\&labelColor=555555\&logocolor=555555)
 
@@ -685,7 +685,7 @@ Abdul-Quddus Kehinde Oyedele, Abdeen Tunde Ogunlana, Ibrahim Damilare Boyenle, A
 
 * 🔥**AutoDock Suite**\
   [![](https://img.shields.io/badge/website-AB9FF2?style=flat\&logo=temporal\&labelColor=555555\&logocolor=555555)](https://ccsb.scripps.edu/projects/docking)
-  [![](https://img.shields.io/badge/AutoDock_Vina-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/ccsb-scripps/AutoDock-Vina/releases) ⭐ 1,065 | 🐛 89 | 🌐 C++ | 📅 2026-08-11
+  [![](https://img.shields.io/badge/AutoDock_Vina-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/ccsb-scripps/AutoDock-Vina/releases) ⭐ 1,066 | 🐛 89 | 🌐 C++ | 📅 2026-08-11
   ![Stars](https://img.shields.io/github/stars/ccsb-scripps/AutoDock-Vina?color=yellow\&style=social)
 * **AutoDock-GPU**\
   [![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/ccsb-scripps/AutoDock-GPU) ⭐ 610 | 🐛 88 | 🌐 C++ | 📅 2026-08-11
@@ -714,4 +714,4 @@ Abdul-Quddus Kehinde Oyedele, Abdeen Tunde Ogunlana, Ibrahim Damilare Boyenle, A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
