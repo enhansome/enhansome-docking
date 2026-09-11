@@ -94,7 +94,7 @@ Google DeepMind AlphaFold team and Isomorphic Labs team\
 Zymvol Biomodeling\
 *Nucleic Acids Research, July 2023*\
 [![](https://img.shields.io/badge/nucleic_acids_research-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://academic.oup.com/nar/article/51/W1/W298/7151343?login=false)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/lightdock/lightdock) ⭐ 407 | 🐛 1 | 🌐 Python | 📅 2026-09-06
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/lightdock/lightdock) ⭐ 408 | 🐛 1 | 🌐 Python | 📅 2026-09-06
 ![Stars](https://img.shields.io/github/stars/lightdock/lightdock?color=yellow\&style=social)
 
 ## Protein-Ligand Docking
@@ -154,7 +154,7 @@ Zhihao Wang, Fan Zhou, Zechen Wang, Qiuyue Hu, Yong-Qiang Li, Sheng Wang, Yanjie
 Alex Morehead, Nabin Giri, Jian Liu, Jianlin Cheng\
 *Preprint, May 2024*\
 [![](https://img.shields.io/badge/arXiv-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://arxiv.org/pdf/2405.14108)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/BioinfoMachineLearning/PoseBench) ⭐ 246 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-09-01
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/BioinfoMachineLearning/PoseBench) ⭐ 247 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-09-01
 ![Stars](https://img.shields.io/github/stars/BioinfoMachineLearning/PoseBench?color=yellow\&style=social)
 ![](https://img.shields.io/badge/dataset-FD6F6F?style=flat\&logo=darkreader\&labelColor=555555\&logocolor=555555)
 
@@ -300,7 +300,7 @@ Lihang Liu, Shanzhuo Zhang, Donglong He, Xianbin Ye, Jingbo Zhou, Xiaonan Zhang,
 *Preprint, October 2023*\
 [![](https://img.shields.io/badge/arxiv-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://arxiv.org/abs/2310.13913)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe0b05305ce09e20d64394753ac2eca2f7aaf7d9d%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/molecular_docking/helixdock) ⭐ 1,120 | 🐛 75 | 🌐 Python | 📅 2026-03-31
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/molecular_docking/helixdock) ⭐ 1,121 | 🐛 75 | 🌐 Python | 📅 2026-03-31
 ![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleHelix?color=yellow\&style=social)
 
 **PoseBusters: AI-based docking methods fail to generate physically valid poses or generalise to novel sequences**\
@@ -352,7 +352,7 @@ Gabriele Corso, Hannes Stärk, Bowen Jing, Regina Barzilay, Tommi Jaakkola\
 *ICLR, Feburary 2023*\
 [![](https://img.shields.io/badge/iclr-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://openreview.net/forum?id=kKF8_K-mBbS)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6f0d0b897d0e0963204719b80a8af43ca0d79d90%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/gcorso/DiffDock) ⭐ 1,572 | 🐛 132 | 🌐 Python | 📅 2025-05-02
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/gcorso/DiffDock) ⭐ 1,573 | 🐛 132 | 🌐 Python | 📅 2025-05-02
 ![Stars](https://img.shields.io/github/stars/gcorso/DiffDock?color=yellow\&style=social)
 ![](https://img.shields.io/badge/blind-FD6F6F?style=flat\&logo=darkreader\&labelColor=555555\&logocolor=555555)
 
@@ -685,7 +685,7 @@ Abdul-Quddus Kehinde Oyedele, Abdeen Tunde Ogunlana, Ibrahim Damilare Boyenle, A
 
 * 🔥**AutoDock Suite**\
   [![](https://img.shields.io/badge/website-AB9FF2?style=flat\&logo=temporal\&labelColor=555555\&logocolor=555555)](https://ccsb.scripps.edu/projects/docking)
-  [![](https://img.shields.io/badge/AutoDock_Vina-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/ccsb-scripps/AutoDock-Vina/releases) ⭐ 1,066 | 🐛 90 | 🌐 C++ | 📅 2026-08-11
+  [![](https://img.shields.io/badge/AutoDock_Vina-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/ccsb-scripps/AutoDock-Vina/releases) ⭐ 1,067 | 🐛 90 | 🌐 C++ | 📅 2026-08-11
   ![Stars](https://img.shields.io/github/stars/ccsb-scripps/AutoDock-Vina?color=yellow\&style=social)
 * **AutoDock-GPU**\
   [![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/ccsb-scripps/AutoDock-GPU) ⭐ 610 | 🐛 88 | 🌐 C++ | 📅 2026-08-11
@@ -714,4 +714,4 @@ Abdul-Quddus Kehinde Oyedele, Abdeen Tunde Ogunlana, Ibrahim Damilare Boyenle, A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
