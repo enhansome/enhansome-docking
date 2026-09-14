@@ -18,7 +18,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-11T02:06:17Z",
-                "open_issues": 90,
+                "open_issues": 91,
                 "owner": "ccsb-scripps",
                 "repo": "AutoDock-Vina",
                 "stars": 1067,
@@ -42,7 +42,7 @@
                 "open_issues": 88,
                 "owner": "ccsb-scripps",
                 "repo": "AutoDock-GPU",
-                "stars": 610,
+                "stars": 611,
                 "topics": [
                   "autodock4",
                   "cuda",
@@ -89,7 +89,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T10:25:45.834Z",
+    "last_updated": "2026-09-14T10:51:11.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome & curated list of docking papers",
