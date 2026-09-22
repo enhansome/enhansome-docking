@@ -52,14 +52,14 @@ If you have a paper or resource you'd like to add, please submit a pull request 
 Jeremy Wohlwend\*, Gabriele Corso\*, Saro Passaro\*, Mateo Reveiz, Ken Leida, Wojtek Swiderski, Tally Portnoi, Itamar Chinn, Jacob Silterra, Tommi Jaakkola, Regina Barzilay\
 *Report, Nov 2024*\
 [![](https://img.shields.io/badge/report-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://gcorso.github.io/assets/boltz1.pdf)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/jwohlwend/boltz) ⭐ 4,213 | 🐛 136 | 🌐 Python | 📅 2026-05-29
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/jwohlwend/boltz) ⭐ 4,214 | 🐛 136 | 🌐 Python | 📅 2026-05-29
 ![Stars](https://img.shields.io/github/stars/jwohlwend/boltz?color=yellow\&style=social)
 
 **Chai-1 Technical Report**\
 Chai-1 Discovery Team\
 *Report, Sep 2024*\
 [![](https://img.shields.io/badge/report-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://chaiassets.com/chai-1/paper/technical_report_v1.pdf)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/chaidiscovery/chai-lab/) ⭐ 1,998 | 🐛 94 | 🌐 Python | 📅 2026-06-30
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/chaidiscovery/chai-lab/) ⭐ 2,000 | 🐛 94 | 🌐 Python | 📅 2026-06-30
 ![Stars](https://img.shields.io/github/stars/chaidiscovery/chai-lab?color=yellow\&style=social)
 
 **AlphaFold3 Open-Source Implementation (Ligo)**\
@@ -81,7 +81,7 @@ Rohith Krishna, Jue Wang, Woody Ahern, Pascal Sturmfels, Preetham Venkatesh, Ind
 *Science, March 2024*\
 [![](https://img.shields.io/badge/science-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://www.science.org/doi/10.1126/science.adl2528)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbbd97deb6e06fe24c5f20fa85e1f276e3065f99f%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/baker-laboratory/RoseTTAFold-All-Atom) ⭐ 823 | 🐛 112 | 🌐 Python | 📅 2026-05-18
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/baker-laboratory/RoseTTAFold-All-Atom) ⭐ 824 | 🐛 112 | 🌐 Python | 📅 2026-05-18
 ![Stars](https://img.shields.io/github/stars/baker-laboratory/RoseTTAFold-All-Atom?color=yellow\&style=social)
 
 🔥**A glimpse of the next generation of AlphaFold**\
@@ -498,7 +498,7 @@ Richard Evans, Michael O’Neill, A. Pritzel, Natasha Antropova, Andrew Senior, 
 *BioRxiv, October 2021*\
 [![](https://img.shields.io/badge/bioRxiv-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2021.10.04.463034)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2556e820cba6bda75f6f31b76bc74d9e36d72cb3%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/google-deepmind/alphafold) ⭐ 14,859 | 🐛 308 | 🌐 Python | 📅 2026-04-22
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/google-deepmind/alphafold) ⭐ 14,860 | 🐛 308 | 🌐 Python | 📅 2026-04-22
 ![Stars](https://img.shields.io/github/stars/google-deepmind/alphafold?color=yellow\&style=social)
 ![](https://img.shields.io/badge/flexible-FD6F6F?style=flat\&logo=darkreader\&labelColor=555555\&logocolor=555555)
 
@@ -685,14 +685,14 @@ Abdul-Quddus Kehinde Oyedele, Abdeen Tunde Ogunlana, Ibrahim Damilare Boyenle, A
 
 * 🔥**AutoDock Suite**\
   [![](https://img.shields.io/badge/website-AB9FF2?style=flat\&logo=temporal\&labelColor=555555\&logocolor=555555)](https://ccsb.scripps.edu/projects/docking)
-  [![](https://img.shields.io/badge/AutoDock_Vina-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/ccsb-scripps/AutoDock-Vina/releases) ⭐ 1,073 | 🐛 91 | 🌐 C++ | 📅 2026-08-11
+  [![](https://img.shields.io/badge/AutoDock_Vina-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/ccsb-scripps/AutoDock-Vina/releases) ⭐ 1,075 | 🐛 91 | 🌐 C++ | 📅 2026-08-11
   ![Stars](https://img.shields.io/github/stars/ccsb-scripps/AutoDock-Vina?color=yellow\&style=social)
 * **AutoDock-GPU**\
-  [![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/ccsb-scripps/AutoDock-GPU) ⭐ 613 | 🐛 89 | 🌐 C++ | 📅 2026-08-11
+  [![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/ccsb-scripps/AutoDock-GPU) ⭐ 614 | 🐛 89 | 🌐 C++ | 📅 2026-08-11
   ![Stars](https://img.shields.io/github/stars/ccsb-scripps/AutoDock-GPU?color=yellow\&style=social)
 * **rDock**\
   [![](https://img.shields.io/badge/website-AB9FF2?style=flat\&logo=temporal\&labelColor=555555\&logocolor=555555)](https://rdock.github.io)
-  [![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/CBDD/rDock) ⭐ 74 | 🐛 30 | 🌐 C++ | 📅 2026-07-01
+  [![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/CBDD/rDock) ⭐ 76 | 🐛 30 | 🌐 C++ | 📅 2026-07-01
   ![Stars](https://img.shields.io/github/stars/CBDD/rDock?color=yellow\&style=social)
 * **Smina**\
   [![](https://img.shields.io/badge/source_forge-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://sourceforge.net/projects/smina)
@@ -714,4 +714,4 @@ Abdul-Quddus Kehinde Oyedele, Abdeen Tunde Ogunlana, Ibrahim Damilare Boyenle, A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
