@@ -42,7 +42,7 @@
                 "open_issues": 89,
                 "owner": "ccsb-scripps",
                 "repo": "AutoDock-GPU",
-                "stars": 614,
+                "stars": 615,
                 "topics": [
                   "autodock4",
                   "cuda",
@@ -89,7 +89,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T10:38:44.513Z",
+    "last_updated": "2026-09-28T11:51:20.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome & curated list of docking papers",
