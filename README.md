@@ -52,14 +52,14 @@ If you have a paper or resource you'd like to add, please submit a pull request 
 Jeremy Wohlwend\*, Gabriele Corso\*, Saro Passaro\*, Mateo Reveiz, Ken Leida, Wojtek Swiderski, Tally Portnoi, Itamar Chinn, Jacob Silterra, Tommi Jaakkola, Regina Barzilay\
 *Report, Nov 2024*\
 [![](https://img.shields.io/badge/report-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://gcorso.github.io/assets/boltz1.pdf)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/jwohlwend/boltz) ⭐ 4,225 | 🐛 135 | 🌐 Python | 📅 2026-05-29
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/jwohlwend/boltz) ⭐ 4,227 | 🐛 134 | 🌐 Python | 📅 2026-05-29
 ![Stars](https://img.shields.io/github/stars/jwohlwend/boltz?color=yellow\&style=social)
 
 **Chai-1 Technical Report**\
 Chai-1 Discovery Team\
 *Report, Sep 2024*\
 [![](https://img.shields.io/badge/report-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://chaiassets.com/chai-1/paper/technical_report_v1.pdf)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/chaidiscovery/chai-lab/) ⭐ 2,000 | 🐛 97 | 🌐 Python | 📅 2026-06-30
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/chaidiscovery/chai-lab/) ⭐ 2,001 | 🐛 97 | 🌐 Python | 📅 2026-06-30
 ![Stars](https://img.shields.io/github/stars/chaidiscovery/chai-lab?color=yellow\&style=social)
 
 **AlphaFold3 Open-Source Implementation (Ligo)**\
@@ -163,7 +163,7 @@ Eric Alcaide, Zhifeng Gao, Guolin Ke, Yaqi Li, Linfeng Zhang, Hang Zheng, Gengmo
 *Preprint, May 2024*\
 [![](https://img.shields.io/badge/arXiv-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://arxiv.org/pdf/2405.11769)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd03bcd5003d5f35d536f9e9b7ae5c4194de93295%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/dptech-corp/Uni-Mol) ⭐ 1,165 | 🐛 113 | 🌐 Python | 📅 2025-05-29
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/dptech-corp/Uni-Mol) ⭐ 1,166 | 🐛 113 | 🌐 Python | 📅 2025-05-29
 ![Stars](https://img.shields.io/github/stars/dptech-corp/Uni-Mol?color=yellow\&style=social)
 ![](https://img.shields.io/badge/known--pocket-FD6F6F?style=flat\&logo=darkreader\&labelColor=555555\&logocolor=555555)
 
@@ -308,7 +308,7 @@ Martin Buttenschoen, Garrett M. Morris, Charlotte M. Deane\
 *Preprint, October 2023.*\
 [![](https://img.shields.io/badge/arxiv-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://arxiv.org/abs/2308.05777)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdd267334c01365d362ed8239394f0ad61b41e269%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/maabuu/posebusters) ⭐ 406 | 🐛 2 | 🌐 Python | 📅 2026-09-17
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/maabuu/posebusters) ⭐ 407 | 🐛 2 | 🌐 Python | 📅 2026-09-17
 ![Stars](https://img.shields.io/github/stars/maabuu/posebusters?color=yellow\&style=social)
 ![](https://img.shields.io/badge/dataset-FD6F6F?style=flat\&logo=darkreader\&labelColor=555555\&logocolor=555555)
 
@@ -361,7 +361,7 @@ Gengmo Zhou, Zhifeng Gao, Qiankun Ding, Hang Zheng, Hongteng Xu, Zhewei Wei, Lin
 *ICLR, Feburary 2023*\
 [![](https://img.shields.io/badge/iclr-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://openreview.net/forum?id=6K2RM6wVqKu)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F11f42721f56f36a64638677ccde7784040829656%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/dptech-corp/Uni-Mol) ⭐ 1,165 | 🐛 113 | 🌐 Python | 📅 2025-05-29
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/dptech-corp/Uni-Mol) ⭐ 1,166 | 🐛 113 | 🌐 Python | 📅 2025-05-29
 ![Stars](https://img.shields.io/github/stars/dptech-corp/Uni-Mol?color=yellow\&style=social)
 ![](https://img.shields.io/badge/known--pocket-FD6F6F?style=flat\&logo=darkreader\&labelColor=555555\&logocolor=555555)
 
@@ -388,7 +388,7 @@ Hannes Stärk, Octavian Ganea, Lagnajit Pattanaik, Dr.Regina Barzilay, Tommi Jaa
 *ICML, July 2022*\
 [![](https://img.shields.io/badge/neurips-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://proceedings.mlr.press/v162/stark22b.html)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5309f4bcb15e3dafbed759488551c1650b55dd81%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/HannesStark/EquiBind) ⭐ 549 | 🐛 8 | 🌐 Python | 📅 2025-02-19
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/HannesStark/EquiBind) ⭐ 550 | 🐛 8 | 🌐 Python | 📅 2025-02-19
 ![Stars](https://img.shields.io/github/stars/HannesStark/EquiBind?color=yellow\&style=social)
 ![](https://img.shields.io/badge/blind-FD6F6F?style=flat\&logo=darkreader\&labelColor=555555\&logocolor=555555)
 
@@ -714,4 +714,4 @@ Abdul-Quddus Kehinde Oyedele, Abdeen Tunde Ogunlana, Ibrahim Damilare Boyenle, A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
