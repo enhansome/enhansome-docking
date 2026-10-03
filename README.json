@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "🔥AutoDock Suite",
-              "description": null,
+              "description": "ccsb-scripps/AutoDock-Vina",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "AutoDock-GPU",
-              "description": null,
+              "description": "ccsb-scripps/AutoDock-GPU",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -42,7 +42,7 @@
                 "open_issues": 89,
                 "owner": "ccsb-scripps",
                 "repo": "AutoDock-GPU",
-                "stars": 615,
+                "stars": 613,
                 "topics": [
                   "autodock4",
                   "cuda",
@@ -57,7 +57,7 @@
             {
               "node_type": "item",
               "title": "rDock",
-              "description": null,
+              "description": "CBDD/rDock",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -89,7 +89,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:13:06.676Z",
+    "last_updated": "2026-10-03T04:41:06.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome & curated list of docking papers",
