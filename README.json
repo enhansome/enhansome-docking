@@ -70,7 +70,7 @@
                 "open_issues": 30,
                 "owner": "CBDD",
                 "repo": "rDock",
-                "stars": 76,
+                "stars": 77,
                 "topics": [
                   "docking",
                   "drug-discovery",
@@ -89,7 +89,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T12:09:03.317Z",
+    "last_updated": "2026-10-09T12:00:16.489Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome & curated list of docking papers",
