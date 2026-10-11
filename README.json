@@ -21,7 +21,7 @@
                 "open_issues": 91,
                 "owner": "ccsb-scripps",
                 "repo": "AutoDock-Vina",
-                "stars": 1081,
+                "stars": 1082,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:05.589Z"
@@ -89,7 +89,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T11:17:00.297Z",
+    "last_updated": "2026-10-11T11:30:21.382Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome & curated list of docking papers",
