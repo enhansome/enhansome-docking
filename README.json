@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-11T02:06:17Z",
-                "open_issues": 91,
+                "open_issues": 92,
                 "owner": "ccsb-scripps",
                 "repo": "AutoDock-Vina",
-                "stars": 1082,
+                "stars": 1083,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:05.589Z"
@@ -70,7 +70,7 @@
                 "open_issues": 30,
                 "owner": "CBDD",
                 "repo": "rDock",
-                "stars": 77,
+                "stars": 78,
                 "topics": [
                   "docking",
                   "drug-discovery",
@@ -89,7 +89,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T11:30:21.382Z",
+    "last_updated": "2026-10-12T13:22:10.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome & curated list of docking papers",
