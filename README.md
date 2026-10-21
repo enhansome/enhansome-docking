@@ -65,7 +65,7 @@ Chai-1 Discovery Team\
 **AlphaFold3 Open-Source Implementation (Ligo)**\
 Edward Harris, Emily Egerton-Warburton, Arda Goreci\
 *Project, Sep 2024*\
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/Ligo-Biosciences/AlphaFold3) ⭐ 1,093 | 🐛 16 | 🌐 Python | 📅 2024-10-07
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/Ligo-Biosciences/AlphaFold3) ⭐ 1,094 | 🐛 16 | 🌐 Python | 📅 2024-10-07
 ![Stars](https://img.shields.io/github/stars/Ligo-Biosciences/AlphaFold3?color=yellow\&style=social)
 
 🔥**Accurate structure prediction of biomolecular interactions with AlphaFold 3**\
@@ -113,7 +113,7 @@ Zizhuo Zhang, Lijun Wu, Kaiyuan Gao, Jiangchao Yao, Tao Qin, Bo Han\
 *ICLR, Jan. 2025*\
 [![](https://img.shields.io/badge/ICLR-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://openreview.net/forum?id=iezDdA9oeB)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0c5a047526c7845061ec2120a68d84f3a610a954%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/resistzzz/FABFlex) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2025-02-16
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/resistzzz/FABFlex) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2025-02-16
 ![Stars](https://img.shields.io/github/stars/resistzzz/FABFlex?color=yellow\&style=social)
 ![](https://img.shields.io/badge/flexible--blind-FD6F6F?style=flat\&logo=darkreader\&labelColor=555555\&logocolor=555555)
 
@@ -163,7 +163,7 @@ Eric Alcaide, Zhifeng Gao, Guolin Ke, Yaqi Li, Linfeng Zhang, Hang Zheng, Gengmo
 *Preprint, May 2024*\
 [![](https://img.shields.io/badge/arXiv-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://arxiv.org/pdf/2405.11769)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd03bcd5003d5f35d536f9e9b7ae5c4194de93295%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/dptech-corp/Uni-Mol) ⭐ 1,168 | 🐛 113 | 🌐 Python | 📅 2025-05-29
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/dptech-corp/Uni-Mol) ⭐ 1,169 | 🐛 113 | 🌐 Python | 📅 2025-05-29
 ![Stars](https://img.shields.io/github/stars/dptech-corp/Uni-Mol?color=yellow\&style=social)
 ![](https://img.shields.io/badge/known--pocket-FD6F6F?style=flat\&logo=darkreader\&labelColor=555555\&logocolor=555555)
 
@@ -308,7 +308,7 @@ Martin Buttenschoen, Garrett M. Morris, Charlotte M. Deane\
 *Preprint, October 2023.*\
 [![](https://img.shields.io/badge/arxiv-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://arxiv.org/abs/2308.05777)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdd267334c01365d362ed8239394f0ad61b41e269%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/maabuu/posebusters) ⭐ 417 | 🐛 1 | 🌐 Python | 📅 2026-10-03
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/maabuu/posebusters) ⭐ 418 | 🐛 1 | 🌐 Python | 📅 2026-10-03
 ![Stars](https://img.shields.io/github/stars/maabuu/posebusters?color=yellow\&style=social)
 ![](https://img.shields.io/badge/dataset-FD6F6F?style=flat\&logo=darkreader\&labelColor=555555\&logocolor=555555)
 
@@ -361,7 +361,7 @@ Gengmo Zhou, Zhifeng Gao, Qiankun Ding, Hang Zheng, Hongteng Xu, Zhewei Wei, Lin
 *ICLR, Feburary 2023*\
 [![](https://img.shields.io/badge/iclr-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://openreview.net/forum?id=6K2RM6wVqKu)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F11f42721f56f36a64638677ccde7784040829656%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/dptech-corp/Uni-Mol) ⭐ 1,168 | 🐛 113 | 🌐 Python | 📅 2025-05-29
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/dptech-corp/Uni-Mol) ⭐ 1,169 | 🐛 113 | 🌐 Python | 📅 2025-05-29
 ![Stars](https://img.shields.io/github/stars/dptech-corp/Uni-Mol?color=yellow\&style=social)
 ![](https://img.shields.io/badge/known--pocket-FD6F6F?style=flat\&logo=darkreader\&labelColor=555555\&logocolor=555555)
 
@@ -379,7 +379,7 @@ Wei Lu, Qifeng Wu, Jixian Zhang, Jiahua Rao, Chengtao Li, Shuangjia Zheng\
 *NeurIPS, November 2022*\
 [![](https://img.shields.io/badge/neurips-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://openreview.net/forum?id=MSBDFwGYwwt)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb886797dc34c91f186629403d7c7e2092fc25083%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/luwei0917/TankBind) ⭐ 188 | 🐛 12 | 🌐 Python | 📅 2023-11-01
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/luwei0917/TankBind) ⭐ 189 | 🐛 12 | 🌐 Python | 📅 2023-11-01
 ![Stars](https://img.shields.io/github/stars/luwei0917/TankBind?color=yellow\&style=social)
 ![](https://img.shields.io/badge/blind-FD6F6F?style=flat\&logo=darkreader\&labelColor=555555\&logocolor=555555)
 
@@ -714,4 +714,4 @@ Abdul-Quddus Kehinde Oyedele, Abdeen Tunde Ogunlana, Ibrahim Damilare Boyenle, A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
