@@ -18,7 +18,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-15T19:14:03Z",
-                "open_issues": 93,
+                "open_issues": 94,
                 "owner": "ccsb-scripps",
                 "repo": "AutoDock-Vina",
                 "stars": 1088,
@@ -89,7 +89,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T10:24:02.925Z",
+    "last_updated": "2026-10-22T10:22:42.520Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome & curated list of docking papers",
