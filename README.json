@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "🔥AutoDock Suite",
-              "description": "ccsb-scripps/AutoDock-Vina",
+              "description": "forlilab/AutoDock-Vina",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -19,7 +19,7 @@
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-15T19:14:03Z",
                 "open_issues": 95,
-                "owner": "ccsb-scripps",
+                "owner": "forlilab",
                 "repo": "AutoDock-Vina",
                 "stars": 1088,
                 "topics": []
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "AutoDock-GPU",
-              "description": "ccsb-scripps/AutoDock-GPU",
+              "description": "forlilab/AutoDock-GPU",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -40,7 +40,7 @@
                 "license": "GPL-2.0",
                 "last_commit": "2026-08-11T19:00:24Z",
                 "open_issues": 89,
-                "owner": "ccsb-scripps",
+                "owner": "forlilab",
                 "repo": "AutoDock-GPU",
                 "stars": 614,
                 "topics": [
@@ -89,7 +89,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T10:20:10.028Z",
+    "last_updated": "2026-10-24T09:41:52.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome & curated list of docking papers",
