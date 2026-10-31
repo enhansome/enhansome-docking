@@ -42,7 +42,7 @@
                 "open_issues": 89,
                 "owner": "forlilab",
                 "repo": "AutoDock-GPU",
-                "stars": 614,
+                "stars": 613,
                 "topics": [
                   "autodock4",
                   "cuda",
@@ -89,7 +89,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T11:29:51.443Z",
+    "last_updated": "2026-10-31T11:01:29.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome & curated list of docking papers",
@@ -101,7 +101,7 @@
       "open_issues": 1,
       "owner": "KyGao",
       "repo": "awesome-docking",
-      "stars": 143,
+      "stars": 144,
       "topics": [
         "awesome",
         "awesome-list",
