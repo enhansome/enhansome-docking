@@ -52,7 +52,7 @@ If you have a paper or resource you'd like to add, please submit a pull request 
 Jeremy Wohlwend\*, Gabriele Corso\*, Saro Passaro\*, Mateo Reveiz, Ken Leida, Wojtek Swiderski, Tally Portnoi, Itamar Chinn, Jacob Silterra, Tommi Jaakkola, Regina Barzilay\
 *Report, Nov 2024*\
 [![](https://img.shields.io/badge/report-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://gcorso.github.io/assets/boltz1.pdf)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/jwohlwend/boltz) ⭐ 4,281 | 🐛 133 | 🌐 Python | 📅 2026-05-29
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/jwohlwend/boltz) ⭐ 4,284 | 🐛 133 | 🌐 Python | 📅 2026-05-29
 ![Stars](https://img.shields.io/github/stars/jwohlwend/boltz?color=yellow\&style=social)
 
 **Chai-1 Technical Report**\
@@ -65,7 +65,7 @@ Chai-1 Discovery Team\
 **AlphaFold3 Open-Source Implementation (Ligo)**\
 Edward Harris, Emily Egerton-Warburton, Arda Goreci\
 *Project, Sep 2024*\
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/Ligo-Biosciences/AlphaFold3) ⭐ 1,095 | 🐛 16 | 🌐 Python | 📅 2024-10-07
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/Ligo-Biosciences/AlphaFold3) ⭐ 1,096 | 🐛 16 | 🌐 Python | 📅 2024-10-07
 ![Stars](https://img.shields.io/github/stars/Ligo-Biosciences/AlphaFold3?color=yellow\&style=social)
 
 🔥**Accurate structure prediction of biomolecular interactions with AlphaFold 3**\
@@ -216,7 +216,7 @@ Runze Zhang, Xinyu Jiang, Duanhua Cao, Jie Yu, Mingan Chen, Zhehuan Fan, Xiangta
 *Preprint, February 2024*\
 [![](https://img.shields.io/badge/biorxiv-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.01.31.578200v1.full.pdf)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F770f53f09f541b96d0e3693ae4066b897ef9d9f5%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/Zhang-Runze/PackDock) ⭐ 65 | 🐛 4 | 🌐 Python | 📅 2026-03-30
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/Zhang-Runze/PackDock) ⭐ 66 | 🐛 4 | 🌐 Python | 📅 2026-03-30
 ![Stars](https://img.shields.io/github/stars/Zhang-Runze/PackDock?color=yellow\&style=social)
 ![](https://img.shields.io/badge/known--pocket-FD6F6F?style=flat\&logo=darkreader\&labelColor=555555\&logocolor=555555)
 ![](https://img.shields.io/badge/flexible-FD6F6F?style=flat\&logo=darkreader\&labelColor=555555\&logocolor=555555)
@@ -308,7 +308,7 @@ Martin Buttenschoen, Garrett M. Morris, Charlotte M. Deane\
 *Preprint, October 2023.*\
 [![](https://img.shields.io/badge/arxiv-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://arxiv.org/abs/2308.05777)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdd267334c01365d362ed8239394f0ad61b41e269%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/maabuu/posebusters) ⭐ 418 | 🐛 2 | 🌐 Python | 📅 2026-10-03
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/maabuu/posebusters) ⭐ 418 | 🐛 1 | 🌐 Python | 📅 2026-10-03
 ![Stars](https://img.shields.io/github/stars/maabuu/posebusters?color=yellow\&style=social)
 ![](https://img.shields.io/badge/dataset-FD6F6F?style=flat\&logo=darkreader\&labelColor=555555\&logocolor=555555)
 
@@ -352,7 +352,7 @@ Gabriele Corso, Hannes Stärk, Bowen Jing, Regina Barzilay, Tommi Jaakkola\
 *ICLR, Feburary 2023*\
 [![](https://img.shields.io/badge/iclr-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://openreview.net/forum?id=kKF8_K-mBbS)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6f0d0b897d0e0963204719b80a8af43ca0d79d90%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/gcorso/DiffDock) ⭐ 1,593 | 🐛 133 | 🌐 Python | 📅 2025-05-02
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/gcorso/DiffDock) ⭐ 1,594 | 🐛 133 | 🌐 Python | 📅 2025-05-02
 ![Stars](https://img.shields.io/github/stars/gcorso/DiffDock?color=yellow\&style=social)
 ![](https://img.shields.io/badge/blind-FD6F6F?style=flat\&logo=darkreader\&labelColor=555555\&logocolor=555555)
 
@@ -414,7 +414,7 @@ Wei Zheng, Qiqige Wuyun, Yang Li, Chengxin Zhang, P. Lydia Freddolino, Yang Zhan
 Huaijin Wu, Wei Liu, Yatao Bian, Jiaxiang Wu, Nianzu Yang, Junchi Yan\
 *ICLR, March 2024*\
 [![](https://img.shields.io/badge/iclr-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://openreview.net/forum?id=qg2boc2AwU)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/wuhuaijin/EBMDock) ⭐ 14 | 🐛 2 | 🌐 Roff | 📅 2024-04-24
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/wuhuaijin/EBMDock) ⭐ 15 | 🐛 2 | 🌐 Roff | 📅 2024-04-24
 ![Stars](https://img.shields.io/github/stars/wuhuaijin/EBMDock?color=yellow\&style=social)
 ![](https://img.shields.io/badge/rigid-FD6F6F?style=flat\&logo=darkreader\&labelColor=555555\&logocolor=555555)
 
@@ -498,7 +498,7 @@ Richard Evans, Michael O’Neill, A. Pritzel, Natasha Antropova, Andrew Senior, 
 *BioRxiv, October 2021*\
 [![](https://img.shields.io/badge/bioRxiv-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2021.10.04.463034)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2556e820cba6bda75f6f31b76bc74d9e36d72cb3%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/google-deepmind/alphafold) ⭐ 14,921 | 🐛 309 | 🌐 Python | 📅 2026-04-22
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/google-deepmind/alphafold) ⭐ 14,922 | 🐛 309 | 🌐 Python | 📅 2026-04-22
 ![Stars](https://img.shields.io/github/stars/google-deepmind/alphafold?color=yellow\&style=social)
 ![](https://img.shields.io/badge/flexible-FD6F6F?style=flat\&logo=darkreader\&labelColor=555555\&logocolor=555555)
 
@@ -685,7 +685,7 @@ Abdul-Quddus Kehinde Oyedele, Abdeen Tunde Ogunlana, Ibrahim Damilare Boyenle, A
 
 * 🔥**AutoDock Suite**\
   [![](https://img.shields.io/badge/website-AB9FF2?style=flat\&logo=temporal\&labelColor=555555\&logocolor=555555)](https://ccsb.scripps.edu/projects/docking)
-  [![](https://img.shields.io/badge/AutoDock_Vina-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/ccsb-scripps/AutoDock-Vina/releases) ⭐ 1,091 | 🐛 95 | 🌐 C++ | 📅 2026-10-15
+  [![](https://img.shields.io/badge/AutoDock_Vina-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/ccsb-scripps/AutoDock-Vina/releases) ⭐ 1,093 | 🐛 95 | 🌐 C++ | 📅 2026-10-15
   ![Stars](https://img.shields.io/github/stars/ccsb-scripps/AutoDock-Vina?color=yellow\&style=social)
 * **AutoDock-GPU**\
   [![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/ccsb-scripps/AutoDock-GPU) ⭐ 613 | 🐛 89 | 🌐 C++ | 📅 2026-08-11
@@ -714,4 +714,4 @@ Abdul-Quddus Kehinde Oyedele, Abdeen Tunde Ogunlana, Ibrahim Damilare Boyenle, A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
