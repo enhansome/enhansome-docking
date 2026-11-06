@@ -300,7 +300,7 @@ Lihang Liu, Shanzhuo Zhang, Donglong He, Xianbin Ye, Jingbo Zhou, Xiaonan Zhang,
 *Preprint, October 2023*\
 [![](https://img.shields.io/badge/arxiv-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://arxiv.org/abs/2310.13913)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe0b05305ce09e20d64394753ac2eca2f7aaf7d9d%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/molecular_docking/helixdock) ⭐ 1,121 | 🐛 76 | 🌐 Python | 📅 2026-03-31
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/molecular_docking/helixdock) ⭐ 1,122 | 🐛 76 | 🌐 Python | 📅 2026-03-31
 ![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleHelix?color=yellow\&style=social)
 
 **PoseBusters: AI-based docking methods fail to generate physically valid poses or generalise to novel sequences**\
@@ -308,7 +308,7 @@ Martin Buttenschoen, Garrett M. Morris, Charlotte M. Deane\
 *Preprint, October 2023.*\
 [![](https://img.shields.io/badge/arxiv-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://arxiv.org/abs/2308.05777)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdd267334c01365d362ed8239394f0ad61b41e269%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/maabuu/posebusters) ⭐ 418 | 🐛 1 | 🌐 Python | 📅 2026-10-03
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/maabuu/posebusters) ⭐ 420 | 🐛 1 | 🌐 Python | 📅 2026-10-03
 ![Stars](https://img.shields.io/github/stars/maabuu/posebusters?color=yellow\&style=social)
 ![](https://img.shields.io/badge/dataset-FD6F6F?style=flat\&logo=darkreader\&labelColor=555555\&logocolor=555555)
 
@@ -326,7 +326,7 @@ Xujun Zhang, Odin Zhang, Chao Shen, Wanglin Qu, Shicheng Chen, Hanqun Cao, Yu Ka
 *Nature Computational Science, September 2023*\
 [![](https://img.shields.io/badge/nature-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://doi.org/10.1038/s43588-023-00511-5)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F190320029c58f7e3c1ce8fa9b908d3c88a27df2f%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/schrojunzhang/KarmaDock) ⭐ 147 | 🐛 21 | 🌐 Python | 📅 2024-08-08
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/schrojunzhang/KarmaDock) ⭐ 146 | 🐛 21 | 🌐 Python | 📅 2024-08-08
 ![Stars](https://img.shields.io/github/stars/schrojunzhang/KarmaDock?color=yellow\&style=social)
 ![](https://img.shields.io/badge/known--pocket-FD6F6F?style=flat\&logo=darkreader\&labelColor=555555\&logocolor=555555)
 
@@ -685,7 +685,7 @@ Abdul-Quddus Kehinde Oyedele, Abdeen Tunde Ogunlana, Ibrahim Damilare Boyenle, A
 
 * 🔥**AutoDock Suite**\
   [![](https://img.shields.io/badge/website-AB9FF2?style=flat\&logo=temporal\&labelColor=555555\&logocolor=555555)](https://ccsb.scripps.edu/projects/docking)
-  [![](https://img.shields.io/badge/AutoDock_Vina-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/ccsb-scripps/AutoDock-Vina/releases) ⭐ 1,094 | 🐛 95 | 🌐 C++ | 📅 2026-10-15
+  [![](https://img.shields.io/badge/AutoDock_Vina-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/ccsb-scripps/AutoDock-Vina/releases) ⭐ 1,093 | 🐛 95 | 🌐 C++ | 📅 2026-10-15
   ![Stars](https://img.shields.io/github/stars/ccsb-scripps/AutoDock-Vina?color=yellow\&style=social)
 * **AutoDock-GPU**\
   [![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/ccsb-scripps/AutoDock-GPU) ⭐ 613 | 🐛 89 | 🌐 C++ | 📅 2026-08-11
@@ -714,4 +714,4 @@ Abdul-Quddus Kehinde Oyedele, Abdeen Tunde Ogunlana, Ibrahim Damilare Boyenle, A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
