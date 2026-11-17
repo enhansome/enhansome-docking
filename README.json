@@ -21,7 +21,7 @@
                 "open_issues": 95,
                 "owner": "forlilab",
                 "repo": "AutoDock-Vina",
-                "stars": 1096,
+                "stars": 1097,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:05.589Z"
@@ -89,7 +89,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T13:52:58.692Z",
+    "last_updated": "2026-11-17T14:44:52.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome & curated list of docking papers",
