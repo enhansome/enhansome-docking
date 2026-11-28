@@ -236,7 +236,7 @@ Wei Lu, Jixian Zhang, Huang Weifeng, Ziqiao Zhang, Chengtao Li, Shuangjia Zheng\
 *Nature Communications, February 2024*\
 [![](https://img.shields.io/badge/nature-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://www.nature.com/articles/s41467-024-45461-2)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F51894ffcf778630e7b021bc473d13d028a3b9158%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/luwei0917/DynamicBind) ⭐ 312 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2025-12-23
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/luwei0917/DynamicBind) ⭐ 313 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2025-12-23
 ![Stars](https://img.shields.io/github/stars/luwei0917/DynamicBind?color=yellow\&style=social)
 ![](https://img.shields.io/badge/blind-FD6F6F?style=flat\&logo=darkreader\&labelColor=555555\&logocolor=555555)
 ![](https://img.shields.io/badge/flexible-FD6F6F?style=flat\&logo=darkreader\&labelColor=555555\&logocolor=555555)
@@ -300,7 +300,7 @@ Lihang Liu, Shanzhuo Zhang, Donglong He, Xianbin Ye, Jingbo Zhou, Xiaonan Zhang,
 *Preprint, October 2023*\
 [![](https://img.shields.io/badge/arxiv-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://arxiv.org/abs/2310.13913)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe0b05305ce09e20d64394753ac2eca2f7aaf7d9d%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/molecular_docking/helixdock) ⭐ 1,122 | 🐛 76 | 🌐 Python | 📅 2026-03-31
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/molecular_docking/helixdock) ⭐ 1,121 | 🐛 76 | 🌐 Python | 📅 2026-03-31
 ![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleHelix?color=yellow\&style=social)
 
 **PoseBusters: AI-based docking methods fail to generate physically valid poses or generalise to novel sequences**\
@@ -352,7 +352,7 @@ Gabriele Corso, Hannes Stärk, Bowen Jing, Regina Barzilay, Tommi Jaakkola\
 *ICLR, Feburary 2023*\
 [![](https://img.shields.io/badge/iclr-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://openreview.net/forum?id=kKF8_K-mBbS)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6f0d0b897d0e0963204719b80a8af43ca0d79d90%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/gcorso/DiffDock) ⭐ 1,615 | 🐛 134 | 🌐 Python | 📅 2025-05-02
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/gcorso/DiffDock) ⭐ 1,614 | 🐛 134 | 🌐 Python | 📅 2025-05-02
 ![Stars](https://img.shields.io/github/stars/gcorso/DiffDock?color=yellow\&style=social)
 ![](https://img.shields.io/badge/blind-FD6F6F?style=flat\&logo=darkreader\&labelColor=555555\&logocolor=555555)
 
@@ -498,7 +498,7 @@ Richard Evans, Michael O’Neill, A. Pritzel, Natasha Antropova, Andrew Senior, 
 *BioRxiv, October 2021*\
 [![](https://img.shields.io/badge/bioRxiv-5291C8?style=flat\&logo=Read.cv\&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2021.10.04.463034)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2556e820cba6bda75f6f31b76bc74d9e36d72cb3%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation\&style=social\&labelColor=555555\&color=ED8936)
-[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/google-deepmind/alphafold) ⭐ 14,959 | 🐛 311 | 🌐 Python | 📅 2026-04-22
+[![](https://img.shields.io/badge/code-38C26D?style=flat\&logo=GitHub\&labelColor=555555)](https://github.com/google-deepmind/alphafold) ⭐ 14,960 | 🐛 311 | 🌐 Python | 📅 2026-04-22
 ![Stars](https://img.shields.io/github/stars/google-deepmind/alphafold?color=yellow\&style=social)
 ![](https://img.shields.io/badge/flexible-FD6F6F?style=flat\&logo=darkreader\&labelColor=555555\&logocolor=555555)
 
@@ -714,4 +714,4 @@ Abdul-Quddus Kehinde Oyedele, Abdeen Tunde Ogunlana, Ibrahim Damilare Boyenle, A
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
